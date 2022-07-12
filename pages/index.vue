@@ -35,6 +35,7 @@ export default {
             let NewObject = {
               src: mapData.images.preview_webp.url,
             };
+            
             return NewObject;
           });
         });
